@@ -1,112 +1,204 @@
-<h1 align="center">Bunyodbek Tursunov</h1>
+<!-- Header -->
 <p align="center">
-  <b>Backend Developer & Project Manager</b><br>
-  Building fintech products at <a href="#">Zibrock LTD</a> · Tashkent, Uzbekistan
+  <a href="https://github.com/HasimZakariya">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Backend+Developer;Project+Manager;Fintech+%26+Trading+Infrastructure;Building+products+at+Zibrock+LTD&font=Fira+Code&center=true&width=500&height=50&color=58a6ff&vCenter=true&pause=1000&size=22" />
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://t.me/HasimZakariya"><img src="https://img.shields.io/badge/Telegram-@HasimZakariya-2CA5E0?style=flat&logo=telegram&logoColor=white" /></a>
-  <a href="https://github.com/HasimZakariya"><img src="https://img.shields.io/badge/GitHub-HasimZakariya-181717?style=flat&logo=github" /></a>
-  <img src="https://komarev.com/ghpvc/?username=HasimZakariya&color=blueviolet&style=flat&label=Profile+views" />
+  <a href="https://t.me/HasimZakariya"><img src="https://img.shields.io/badge/Telegram-@HasimZakariya-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://github.com/HasimZakariya?tab=followers"><img src="https://img.shields.io/github/followers/HasimZakariya?style=for-the-badge&logo=github&label=Followers&color=236ad3" /></a>
+  <img src="https://komarev.com/ghpvc/?username=HasimZakariya&style=for-the-badge&color=blueviolet&label=Profile+Views" />
 </p>
 
 ---
 
-### About me
+### 👨‍💻 About me
 
-- Working in fintech — prop trading, CRM systems, payment integrations
-- Managing development teams and full product lifecycle (from specs to production)
-- Interested in system design, trading infrastructure and automation
-- Open to remote opportunities
+```yaml
+name: Bunyodbek Tursunov
+role: Backend Developer & Project Manager
+company: Zibrock LTD
+location: Tashkent, Uzbekistan
+focus: Fintech, Prop Trading, CRM Systems
+
+experience:
+  - Managing full product lifecycle (specs → design → dev → deploy)
+  - Building trading infrastructure & payment integrations
+  - Leading teams of 5+ developers
+  - Telegram bot development & AI automation
+
+currently_learning: System Design, Kubernetes, Advanced Python
+open_to: Remote work, Collaborations, Interesting projects
+```
 
 ---
 
-### Tech stack
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,react,typescript,tailwind,vite,postgres,sqlite,redis,docker,nginx,linux,git&perline=7" />
+</p>
+
+<details>
+<summary><b>More details</b></summary>
+<br>
+
+| Category | Technologies |
+|----------|-------------|
+| **Languages** | Python, TypeScript, JavaScript, SQL |
+| **Backend** | FastAPI, Flask, SQLAlchemy, Alembic, Celery |
+| **Frontend** | React, TailwindCSS, Vite, Zustand |
+| **Databases** | PostgreSQL, SQLite, Redis, ChromaDB |
+| **AI / ML** | OpenAI API, Groq, ChromaDB (vector search) |
+| **DevOps** | Docker, Nginx, systemd, GitHub Actions |
+| **Bots** | pyTelegramBotAPI, Telethon, Webhook |
+| **Integrations** | Match-Trader API, MT5 WebAPI, Sumsub KYC, Payment gateways |
+
+</details>
+
+---
+
+### 🚀 Projects
 
 <table>
-  <tr>
-    <td><b>Backend</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
-      <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
-      <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Frontend</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
-      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Database</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
-      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" />
-      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>DevOps</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white" />
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>AI / ML</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" />
-      <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=flat&logoColor=white" />
-      <img src="https://img.shields.io/badge/Groq-000000?style=flat&logoColor=white" />
-    </td>
-  </tr>
+<tr>
+<td width="50%">
+
+**[🏢 PropCRM](https://github.com/HasimZakariya/prop-crm)**
+
+CRM system for proprietary trading firms
+
+`React` `FastAPI` `TypeScript` `TailwindCSS`
+
+- 38 pages (admin + client)
+- Trader management & challenge tracking
+- KYC pipeline, payout processing
+- Real-time analytics dashboard
+
+</td>
+<td width="50%">
+
+**[💬 Central Chat](https://github.com/HasimZakariya/central-chat)**
+
+Unified messaging platform
+
+`React` `Node.js` `WebSocket` `SQLAlchemy`
+
+- Telegram integration
+- Real-time agent routing
+- Chat tags, templates, search
+- Dealing queue for operators
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**[🤖 Telegram Support Bot](https://github.com/HasimZakariya/telegram-support-bot)**
+
+Multi-language support system (RU/UZ/EN)
+
+`Python` `Telebot` `OpenAI` `SQLAlchemy`
+
+- FAQ with categories & translations
+- Ticket system with admin panel
+- AI auto-replies (GPT-4)
+- Anti-spam & ban middlewares
+
+</td>
+<td width="50%">
+
+**[🧠 AI Chatbot](https://github.com/HasimZakariya/ai-chatbot)**
+
+Intelligent FAQ with semantic search
+
+`Python` `ChromaDB` `OpenAI` `Groq`
+
+- Vector embeddings for FAQ matching
+- Hybrid classification (rules + ML)
+- GPT/Groq fallback for unknowns
+- Response caching with TTL
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**[🔍 OSINT Tracker](https://github.com/HasimZakariya/osint-tracker)**
+
+Telegram intelligence & analysis tool
+
+`FastAPI` `Telethon` `OpenAI` `Docker`
+
+- Group/channel parsing
+- User activity profiling
+- AI content classification
+- Batch processing pipeline
+
+</td>
+<td width="50%">
+
+**[🎫 Tech Support Portal](https://github.com/HasimZakariya/tech-support-portal)**
+
+Internal ticket management system
+
+`Flask` `SQLite` `Bootstrap` `Jinja2`
+
+- Error type classification
+- File attachments (10MB)
+- Agent assignment
+- Priority tracking
+
+</td>
+</tr>
 </table>
 
 ---
 
-### Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [**prop-crm**](https://github.com/HasimZakariya/prop-crm) | CRM for proprietary trading firms — trader management, challenge tracking, KYC, payouts, analytics | React, FastAPI, SQLAlchemy |
-| [**telegram-support-bot**](https://github.com/HasimZakariya/telegram-support-bot) | Multi-language support bot (RU/UZ/EN) with FAQ, tickets, AI auto-replies, admin panel | Python, Telebot, OpenAI |
-| [**central-chat**](https://github.com/HasimZakariya/central-chat) | Unified messaging platform with Telegram integration, agent routing, real-time WebSocket | React, Node.js, WebSocket |
-| [**ai-chatbot**](https://github.com/HasimZakariya/ai-chatbot) | AI FAQ chatbot with semantic search (ChromaDB), hybrid classification, GPT/Groq fallback | Python, ChromaDB, OpenAI |
-| [**osint-tracker**](https://github.com/HasimZakariya/osint-tracker) | Telegram OSINT tool — group analysis, user profiling, AI content classification | FastAPI, Telethon, GPT |
-| [**tech-support-portal**](https://github.com/HasimZakariya/tech-support-portal) | Internal ticket system for tech support team with auth, file uploads, priority tracking | Flask, SQLite, Bootstrap |
-
----
-
-### What I do at Zibrock LTD
+### 🏗️ What I build at Zibrock LTD
 
 ```
 Prop Trading Infrastructure
-├── CRM System (38 pages, React + FastAPI)
-├── Trading Platform Integrations (Match-Trader, MT5)
-├── Payment Processing (crypto + fiat)
-├── KYC/AML Pipeline (Sumsub)
-├── Support Automation (Telegram bots, AI)
-└── Internal Tools (chat, analytics, OSINT)
+│
+├── 🏢 CRM System ─────────── Client/trader management, 38 pages
+├── 📊 Trading Platform ────── Match-Trader & MT5 integration
+├── 💳 Payments ────────────── Crypto + fiat processing (Paytiko)
+├── 🔐 KYC/AML ────────────── Sumsub identity verification
+├── 🤖 Support Automation ──── Telegram bots, AI, ticket routing
+├── 💬 Communications ──────── Unified chat, multi-channel inbox
+└── 🔍 Analytics ───────────── OSINT, trading metrics, dashboards
 ```
 
 ---
 
-### GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HasimZakariya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasimZakariya&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HasimZakariya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HasimZakariya&theme=tokyonight&hide_border=true&background=0d1117" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasimZakariya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" height="170" />
+</p>
+
+<!-- Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HasimZakariya&theme=tokyo-night&hide_border=true&bg_color=0d1117" width="100%" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HasimZakariya/HasimZakariya/output/github-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ---
 
 <p align="center">
-  <i>Open to remote work and collaboration. Reach out via <a href="https://t.me/HasimZakariya">Telegram</a>.</i>
+  <b>Open to remote work and collaboration</b><br>
+  <a href="https://t.me/HasimZakariya">💬 Let's talk on Telegram</a>
 </p>
