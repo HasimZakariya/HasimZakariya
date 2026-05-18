@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://t.me/HasimZakariya"><img src="https://img.shields.io/badge/Telegram-@HasimZakariya-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://t.me/TS98I89I98"><img src="https://img.shields.io/badge/Telegram-@TS98I89I98-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="https://github.com/HasimZakariya?tab=followers"><img src="https://img.shields.io/github/followers/HasimZakariya?style=for-the-badge&logo=github&label=Followers&color=236ad3" /></a>
   <img src="https://komarev.com/ghpvc/?username=HasimZakariya&style=for-the-badge&color=blueviolet&label=Profile+Views" />
 </p>
@@ -200,5 +200,5 @@ Prop Trading Infrastructure
 
 <p align="center">
   <b>Open to remote work and collaboration</b><br>
-  <a href="https://t.me/HasimZakariya">💬 Let's talk on Telegram</a>
+  <a href="https://t.me/TS98I89I98">💬 Let's talk on Telegram</a>
 </p>
